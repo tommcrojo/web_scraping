@@ -78,4 +78,4 @@ df.to_csv(“companies.csv”, index=False)
 ## Conclusión
 
 He logrado extraer datos de una tabla en Wikipedia, almacenarlos en un DataFrame de Pandas y exportarlos a un archivo CSV. Este enfoque puede adaptarse para diversos proyectos de web scraping, permitiendo la recolección y análisis de datos de diferentes sitios web!
-```
+
