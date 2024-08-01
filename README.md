@@ -20,7 +20,7 @@ import pandas as pd
 
 ### Obtención de la Página Web
 
-Obtenemos el contenido de la página web usando:
+Obtenemos el contenido de la página web, utilizando buenas prácticas para la legibilidad del código:
 
 ```python
 url = "https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue"
